@@ -1,6 +1,7 @@
 #11/4/2025
 #TP4 - Rozas Miguel Agustin - Introduccion a la programacion 1
 # Ejercicio 1
+#
 def line():
     A = float(input("Ingrese el coeficiente A:")) 
     B = float(input("ingrese el coeficiente B:"))
